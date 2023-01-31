@@ -1,0 +1,58 @@
+{
+  "transfers": [
+    {
+      "id": 1,
+      "name": "wyplata",
+      "value": 1244,
+      "currency": "PLN",
+      "date": "2022-10-03",
+      "type": "income"
+    },
+    {
+      "id": 2,
+      "name": "cheeseburger",
+      "value": 20,
+      "currency": "PLN",
+      "date": "2022-10-01",
+      "type": "outcome"
+    },
+    {
+      "id": 3,
+      "name": "woda w żabce",
+      "value": 10,
+      "currency": "PLN",
+      "date": "2022-10-02",
+      "type": "outcome"
+    },
+    {
+      "id": 4,
+      "name": "prezent od babci",
+      "value": 400,
+      "currency": "PLN",
+      "date": "2022-10-04",
+      "type": "income"
+    },
+    {
+      "id": 5,
+      "name": "nowe kuboty",
+      "value": 101,
+      "currency": "PLN",
+      "date": "2022-10-03",
+      "type": "outcome"
+    },
+    {
+      "id": 6,
+      "name": "kura",
+      "value": 801,
+      "currency": "EUR",
+      "date": "2022-12-20",
+      "type": "income"
+    }
+  ],
+  "user": {
+    "name": "Zenon",
+    "age": 53,
+    "avatar": "https://goingapp.pl/storage/app/uploads/public/5e5/7ca/c88/thumb_592291_910x700_0_0_crop.jpg",
+    "profession": "piosenkarz"
+  }
+}
